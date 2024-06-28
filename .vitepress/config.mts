@@ -3,7 +3,7 @@ import { getSideBarList } from './utils'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-
+  base: "/vitepress1.0/",
   title: "星梦启航",
   description: "A VitePress Site",
   // appearance: false,
